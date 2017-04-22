@@ -11,7 +11,7 @@ namespace DICOM
     [Activity(Label = "DICOM", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
-
+        //halo
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
