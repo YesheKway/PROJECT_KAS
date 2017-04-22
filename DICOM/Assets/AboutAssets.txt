@@ -13,7 +13,7 @@ public class ReadAsset : Activity
 		InputStream input = Assets.Open ("my_asset.txt");
 	}
 }
-//Lutsch bruder
+//Lutsch bruder haywan
 Additionally, some Android functions will automatically load asset files:
 
 Typeface tf = Typeface.CreateFromAsset (Context.Assets, "fonts/samplefont.ttf");
